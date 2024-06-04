@@ -1,0 +1,362 @@
+[
+    {
+        "_id": 636369689386,
+        "name": "ក្បាលសណ្តែកដីធ្វើដោយដៃស្រស់ថ្លា Regro បន្លែ Tannin Tannin Conkide Cowhide របស់បុរសធ្វើឱ្យខ្សែក្រវ៉ាត់ខោស្បែកចាស់",
+        "price": {
+            "minPrice": 16.5,
+            "maxPrice": 16.5
+        },
+        "promoPrice": {
+            "minPrice": 16.5,
+            "maxPrice": 16.5
+        },
+        "stock": 1000,
+        "sold": 1000,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/74930703/O1CN01X8WvJ61H41ARnMfdB_!!74930703.jpg_180x180.jpg",
+        "merchant": "maozo338",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=600570643319"
+    },
+    {
+        "_id": 759437879738,
+        "name": " ប្រព័ន្ធបៃតង 401-499 រ៉ូបរដូវស្លឹកឈើជ្រុះនិងរដូវរងារសំលៀកបំពាក់ម៉ូតពីរដុំថ្មីរបស់ស្ត្រីកំពូល 1116 ",
+        "price": {
+            "minPrice": 5,
+            "maxPrice": 5
+        },
+        "promoPrice": {
+            "minPrice": 6.65,
+            "maxPrice": 6.65
+        },
+        "stock": 1000,
+        "sold": 1000,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2154432336/O1CN016VxOeb1T7w7giEF14_!!2154432336.jpg_180x180.jpg",
+        "merchant": "雨雨衣品",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=636369689386"
+    },
+    {
+        "_id": 636378465739,
+        "name": " អាវធំអំបោះអាមេរិច Tamea Amea កាហ្សាកាទឹករបស់កម្មករដែលត្រូវបានទឹកនាំទៅជាបុរសអាវវែងឆ្ងាយដើរលេង",
+        "price": {
+            "minPrice": 24.67,
+            "maxPrice": 24.67
+        },
+        "promoPrice": {
+            "minPrice": 24.67,
+            "maxPrice": 24.67
+        },
+        "stock": 36,
+        "sold": 36,
+        "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2818368763/O1CN01YaxfVV2EbVNXIZ0d3_!!2818368763.jpg_180x180.jpg",
+        "merchant": "kingsvision",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=759437879738"
+    },
+    {
+        "_id": 771240046713,
+        "name": " ក្រម៉ារុំឈុតរ៉ូបរបស់បុរសដែលមានក្រម៉ារូសថលថលថលថិនធ័រថលធ័រកាហ្វេកាហ្វេពណ៌កាហ្វេពណ៌ទឹកក្រូចសំលៀកបំពាក់សំលៀកបំពាក់ពណ៌ក្រហម",
+        "price": {
+            "minPrice": 5,
+            "maxPrice": 5
+        },
+        "promoPrice": {
+            "minPrice": 5,
+            "maxPrice": 5
+        },
+        "stock": 0,
+        "sold": 0,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/69455243/O1CN01KPVFwH1obLNBGDSSJ_!!69455243.jpg_180x180.jpg",
+        "merchant": "周周买手店11",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=636378465739"
+    },
+    {
+        "_id": 694090942407,
+        "name": " ឈុតញាណនូកម្រិតខ្ពស់ឈុតបុរសស្លៀកពាក់សំលៀកបំពាក់ផ្លូវការរបស់បុរសឈុតឈុតបុរសឈុតពីរ - ការជំនោរសេវាកម្មអាពាហ៍ពិពាហ៍អាវទ្រនាប់របស់កូនកំលោះ",
+        "price": {
+            "minPrice": 136.36,
+            "maxPrice": 136.36
+        },
+        "promoPrice": {
+            "minPrice": 156.36,
+            "maxPrice": 156.36
+        },
+        "stock": 28,
+        "sold": 28,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2213189981161/O1CN01J9io0v1KRmdClJAoz_!!2213189981161.jpg_180x180.jpg",
+        "merchant": "威登高端品质服饰",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=771240046713"
+    },
+    {
+        "_id": 658231992377,
+        "name": " បន្ទប់សំលៀកបំពាក់បន្ទប់គេងបន្ទប់តុរប្យួរពារផ្ទះការតុបតែងផ្ទះនិងការផ្គូផ្គងបុរសឈុតខ្ពស់របស់បុរសសាមញ្ញបន្ទះសម្លៀកបំពាក់សម្លៀកបំពាក់",
+        "price": {
+            "minPrice": 22.17,
+            "maxPrice": 22.17
+        },
+        "promoPrice": {
+            "minPrice": 23,
+            "maxPrice": 23
+        },
+        "stock": 0,
+        "sold": 0,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/49308682/O1CN01boMCv62E0PMHlqpcL_!!49308682.jpg_180x180.jpg",
+        "merchant": "ooppmm1",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=694090942407"
+    },
+    {
+        "_id": 712655784223,
+        "name": " ក្មេងស្រីក្តៅហូតស្តៅធ្វើឱ្យខ្លីអាន់ទីនខោខ្លីស្រី 2024 និទាឃរដូវនិងរដូវក្តៅចង្កេះខ្ពស់ថ្មីនិងខោដែលអាចបង្ហាញបានស្តើង",
+        "price": {
+            "minPrice": 6.63,
+            "maxPrice": 6.63
+        },
+        "promoPrice": {
+            "minPrice": 6.63,
+            "maxPrice": 6.63
+        },
+        "stock": 78,
+        "sold": 78,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1094777790/O1CN01Ocy6Ww27PsBJw45vX_!!1094777790.jpg_180x180.jpg",
+        "merchant": "dmd655437",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=658231992377"
+    },
+    {
+        "_id": 763081848287,
+        "name": " ឈុតពន្លឺឆ្នាំថ្មីប្រណិត 2024 រដូវរងារនិទាឃរដូវថ្មីនិងអាវយឺតអាវយឺតបុរសលេងកីឡាធម្មតារបស់បុរស STARTST 8779 ",
+        "price": {
+            "minPrice": 32.34,
+            "maxPrice": 32.34
+        },
+        "promoPrice": {
+            "minPrice": 33.17,
+            "maxPrice": 33.17
+        },
+        "stock": 100,
+        "sold": 100,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2623581663/O1CN014AxkOl1O9ha4TtGmh_!!2623581663.jpg_180x180.jpg",
+        "merchant": "杀阡陌_1987",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=712655784223"
+    },
+    {
+        "_id": 731367991414,
+        "name": " អាវធំខ្លីរបស់អាមេរិកាំងនៅដើមរដូវស្លឹកឈើជ្រុះជាមួយនឹងការរចនាអាវស្បែកតូចមួយដែលជាអាវស្បែកស្បែក",
+        "price": {
+            "minPrice": 14.84,
+            "maxPrice": 14.84
+        },
+        "promoPrice": {
+            "minPrice": 16.34,
+            "maxPrice": 16.34
+        },
+        "stock": 27,
+        "sold": 27,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/1075409050/O1CN01SWzsfW2GixG48b9Nh_!!1075409050.jpg_180x180.jpg",
+        "merchant": "goodcat0215",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=763081848287"
+    },
+    {
+        "_id": 673715300308,
+        "name": " [ហោប៉ៅដាក់ហោប៉ៅអិល] គ្រឿងកណ្តុរកន្សែងកន្សែងកន្សែងខ្នាតតូច Sailber Socker Sulkfet Socker Cullerf Multher Mulker Socker Multhief Midseleman Muleman Story ម៉ូតូ",
+        "price": {
+            "minPrice": 1.67,
+            "maxPrice": 1.67
+        },
+        "promoPrice": {
+            "minPrice": 1.67,
+            "maxPrice": 1.67
+        },
+        "stock": 1,
+        "sold": 1,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/196279076/O1CN01QTektK2GurRucMBIp_!!196279076.jpg_180x180.jpg",
+        "merchant": "诚信九顺",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=731367991414"
+    },
+    {
+        "_id": 707687645515,
+        "name": " យីហោរបស់កូរ៉េខាងត្បូងនិទាឃរដូវនិទាឃរដូវនិងរដូវក្តៅអាជីវកម្មអាវពណ៌ខៀវដែលមានរោមចៀមពណ៌ខៀវ",
+        "price": {
+            "minPrice": 66.35,
+            "maxPrice": 66.35
+        },
+        "promoPrice": {
+            "minPrice": 66.35,
+            "maxPrice": 66.35
+        },
+        "stock": 4,
+        "sold": 4,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/34905958/O1CN014gclRA1tsoZu8ljpz_!!34905958.jpg_180x180.jpg",
+        "merchant": "lipengda648",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=673715300308"
+    },
+    {
+        "_id": 649752473246,
+        "name": " ដៃ 5 ស",
+        "price": {
+            "minPrice": 4.83,
+            "maxPrice": 4.83
+        },
+        "promoPrice": {
+            "minPrice": 4.83,
+            "maxPrice": 4.83
+        },
+        "stock": 0,
+        "sold": 0,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2192979232/O1CN01f1P6Wx2I4JGhMRSBy_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "顿河旗舰店",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=707687645515"
+    },
+    {
+        "_id": 733768477953,
+        "name": " ម",
+        "price": {
+            "minPrice": 8,
+            "maxPrice": 8
+        },
+        "promoPrice": {
+            "minPrice": 8,
+            "maxPrice": 8
+        },
+        "stock": 10,
+        "sold": 10,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2923947033/O1CN01OUxfld21pASWRKAul_!!2923947033.jpg_180x180.jpg",
+        "merchant": "吉战服饰商行",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=649752473246"
+    },
+    {
+        "_id": 742142625433,
+        "name": " បឋមសិក្សាឯកសណ្ឋានមហាវិទ្យាល័យនិងក្រុមនារីអាវធំអាវធំបុរសអាវធំនិងក្រុមស្ត្រីអាវធំរបស់នារីដែលមានវិទ្យាល័យនិងក្រុមស្ត្រីដែលមានក្រុមគ្រួសារអាវធំឯកសព័រដែលមានវិទ្យាល័យនិងក្រុមស្ត្រីអាវធំរបស់ស្ត្រីដែលមានវិទ្យាល័យនិងក្រុមស្ត្រីដែលមានក្រុមស្ត្រីឯកសព័រដែលមានឈ្មោះថា Holiform នៅមហាវិទ្យាល័យបុរសអាវធំនិងក្រុមស្ត្រីអាវធំរបស់នារីអាវធំអាវធំអាវធំនិងក្រុមស្ត្រីអាវធំរបស់នារីដែលមានវិទ្យាល័យនិងក្រុមស្ត្រីដែលមានក្រុមគ្រួសារអាវធំស្មាធ័រដ៏មានវិទ្យាល័យ",
+        "price": {
+            "minPrice": 14.84,
+            "maxPrice": 14.84
+        },
+        "promoPrice": {
+            "minPrice": 14.84,
+            "maxPrice": 14.84
+        },
+        "stock": 200,
+        "sold": 200,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2207712750144/O1CN01nJmVVS1CvzuutQUpw_!!0-item_pic.jpg_180x180.jpg",
+        "merchant": "艾微迪旗舰店",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=733768477953"
+    },
+    {
+        "_id": 768570407565,
+        "name": " ខោខនអំបោះ 2024 និទាឃរដូវនិទាឃរដូវនិងរដូវស្លឹកឈើជ្រុះថ្មីដែលមាននិមិត្តរូបយឺតយ៉ាវដែលមានកម្លាំង 9 យ៉ាងថ្មី",
+        "price": {
+            "minPrice": 14.34,
+            "maxPrice": 14.34
+        },
+        "promoPrice": {
+            "minPrice": 14.34,
+            "maxPrice": 14.34
+        },
+        "stock": 18,
+        "sold": 18,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2096220105/O1CN01POUOhZ1Ce8VsyDK4G_!!2096220105.jpg_180x180.jpg",
+        "merchant": "你开心就好58",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=742142625433"
+    },
+    {
+        "_id": 653534131695,
+        "name": " ឆ្នាំ 2024 ប្រទេសកូរ៉េនៅនិទាឃរដូវនិងរដូវស្លឹកឈើជ្រុះបានទទួលការបោះពុម្ពលើករឿងតូចតាចដែលមានឈ្មោះថា Trends Retro លើអាវទ្រនាប់គួរឱ្យធុញទ្រាន់",
+        "price": {
+            "minPrice": 15,
+            "maxPrice": 15
+        },
+        "promoPrice": {
+            "minPrice": 19.34,
+            "maxPrice": 19.34
+        },
+        "stock": 2,
+        "sold": 2,
+        "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2707172516/O1CN015A3mKF1USNCTyQbiH_!!2707172516.jpg_180x180.jpg",
+        "merchant": "李涛892056692",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=768570407565"
+    },
+    {
+        "_id": 623597145814,
+        "name": " ប៉ារីសបុរាណរបស់បុរសនៅរដូវស្លឹកឈើជ្រុះប៉ារីសដែលមានទ្រព្យសម្បត្ដិយ៉ាងត្រង់ជាមួយនឹងខោរបស់បុរសត្រង់ 9 តួរុនស៊ីនថលថលឈុតខោទ្រនាប់",
+        "price": {
+            "minPrice": 48.34,
+            "maxPrice": 48.34
+        },
+        "promoPrice": {
+            "minPrice": 48.34,
+            "maxPrice": 48.34
+        },
+        "stock": 2,
+        "sold": 2,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2562476450/O1CN01cwF7kU1xW9Em7F11K_!!2562476450.jpg_180x180.jpg",
+        "merchant": "lxmcat1",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=653534131695"
+    },
+    {
+        "_id": 709390854062,
+        "name": " Paris dia Hang Changxi ខោពាក់កណ្តាល -high ចង្កេះឆាបឆេះបួនរដូវកាលដែលរោមចិញ្ចើមលាយបញ្ចូលគ្នានូវវណ្ណៈអភិការធម្មតា",
+        "price": {
+            "minPrice": 69.35,
+            "maxPrice": 69.35
+        },
+        "promoPrice": {
+            "minPrice": 69.35,
+            "maxPrice": 69.35
+        },
+        "stock": 88,
+        "sold": 88,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/201935682/O1CN013Dh0JL1rqPGbTaDIj_!!201935682.jpg_180x180.jpg",
+        "merchant": "糖糖有gg",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=623597145814"
+    },
+    {
+        "_id": 582385259770,
+        "name": " ពន្លឺភ្លើងទន់ ៗ [លាងពណ៌នៃទឹកធ្ងន់ដើម្បីធ្វើឱ្យចាស់] ស្នូលពណ៌ខៀវរបស់ប្រទេសបង់កម្រាលរបស់ព្យុះ Knight Knight Knight ",
+        "price": {
+            "minPrice": 2.38,
+            "maxPrice": 2.38
+        },
+        "promoPrice": {
+            "minPrice": 2.38,
+            "maxPrice": 2.38
+        },
+        "stock": 4,
+        "sold": 4,
+        "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/79303157/O1CN01EnLI5K1ZBwrB5wJv6_!!79303157.jpg_180x180.jpg",
+        "merchant": "好绝饰",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=709390854062"
+    },
+    {
+        "_id": 730478144751,
+        "name": " ទ្រង់ទ្រាយអាពាហ៍ពិពាហ៍របស់បុរសសមនឹងហោប៉ៅហោប៉ៅអង់គ្លេសកាបូបសំអាងការម្ហូបបាសក្រិនដើមទ្រូងកាបូបដោយមិនគិតថ្លៃ",
+        "price": {
+            "minPrice": 27.17,
+            "maxPrice": 27.17
+        },
+        "promoPrice": {
+            "minPrice": 29.67,
+            "maxPrice": 29.67
+        },
+        "stock": 100,
+        "sold": 100,
+        "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/35903439/O1CN01Xs880i1bH6vsz9PNy_!!35903439.jpg_180x180.jpg",
+        "merchant": "cwx8834004",
+        "provider": "taobao",
+        "url": "http://detail.tmall.com/item.htm?id=582385259770"
+    }
+]
